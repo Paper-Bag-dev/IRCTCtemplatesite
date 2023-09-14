@@ -1,2 +1,2 @@
-# IRCTCtemplatesite
-A simple static tailwind site made for practice with  the utility.
+# IRCTC SITE
+Just a site for testing and learning tailwind utility.
